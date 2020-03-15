@@ -1,5 +1,5 @@
 # API KEY
-api_keys.py = "weather_api_key"
+api_keys = "weather_api_key"
 
 
 # Byte-compiled / optimized / DLL files
