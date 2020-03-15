@@ -1,3 +1,6 @@
+# API Key
+api_keys = weather_api_key
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
