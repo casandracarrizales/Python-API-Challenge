@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+# API KEYS
+api_keys.py 
+config.py
 # C extensions
 *.so
 
