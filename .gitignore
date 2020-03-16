@@ -4,7 +4,8 @@ __pycache__/
 *$py.class
 # API KEYS
 api_keys.py 
-config.py
+weather_api_key
+g_key
 # C extensions
 *.so
 
